@@ -1,0 +1,690 @@
+[
+  {
+    "cateId": 0,
+    "classify": [
+      "粮味调油",
+      "生活电器",
+      "厨房小电",
+      "个护健康",
+      "集成灶",
+      "移动电源",
+      "婴童寝居",
+      "奶瓶奶嘴",
+      "洗护用品",
+      "瑞表",
+      "手机"
+    ],
+    "goodsList": [
+      [
+        {
+          "goodsId": 0,
+          "title": "日清 方便面 合味道 虾仁味 方便面82g*12杯整箱装",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t571/251/912663531/119988/a403bf23/549928a9Necb2e7a0.jpg",
+          "price": 59.8
+        },
+        {
+          "goodsId": 1,
+          "title": "展艺 烘焙原料 纯正椰蓉 椰丝糯米糍奶油小方蛋糕饼干装饰 全脂椰丝 100克* 3包",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/43401/26/9488/429700/5d302838E94bafbde/5d12c7ea498e4311.jpg",
+          "price": 13.5
+        }
+      ],
+      [
+        {
+          "goodsId": 2,
+          "title": "小米（MI）小米净水器前置活性炭滤芯",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t4210/357/565260019/35639/bbbb81f9/58b680aeN985f7eef.jpg",
+          "price": 69.0
+        },
+        {
+          "goodsId": 3,
+          "title": "碧然德（BRITA）家用净水壶 滤水壶滤芯 MAXTRA+LE 去水垢专家滤芯 6枚装",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/8600/34/12988/128022/5c3ed726Eda192e3d/5159a3347653a30c.jpg",
+          "price": 294.0
+        }
+      ],
+      [
+        {
+          "goodsId": 4,
+          "title": "美的（Midea）M1-L213B 快捷微波炉 360°转盘加热 旋钮操控 精准控温 五档火力 21升",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t20503/186/2458533163/101960/71fcfe06/5b56ddcaNfa469fcd.jpg",
+          "price": 299.0
+        },
+        {
+          "goodsId": 5,
+          "title": "美的（Midea）电水壶热水壶电热水壶304不锈钢水壶双层防烫全钢无缝开水壶烧水壶MK-HJ1512d",
+          "img_url": "https://m.360buyimg.com/n1/s210x210_jfs/t1/50240/25/1875/217134/5cfca91bEc337f4cc/3f4ada2659ed0d94.jpg",
+          "price": 87.0
+        }
+      ],
+      [
+        {
+          "goodsId": 6,
+          "title": "香山电子秤圆形背光电子称体重秤智能差值对比人体称 EB9005L",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/38888/40/8593/72055/5d004bcaE2d9b1e54/e6fa1670c0aab784.jpg",
+          "price": 59.9
+        },
+        {
+          "goodsId": 7,
+          "title": "米家 （MIJIA ）小米声波电动牙刷成人充电式磁悬浮声波震动马达 可替换刷头 智能电动牙刷",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t24346/83/288374923/42501/2fa147f8/5b2b58e5N3ac387ee.jpg",
+          "price": 87.0
+        }
+      ],
+      [
+        {
+          "goodsId": 8,
+          "title": "欧意（OUYI）集成灶一体灶蒸箱烤箱消毒柜自动清洗家用环保灶侧吸下排式 旗舰款【烟灶蒸】 天然气",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/74741/10/6342/182189/5d451cd2Eb42c8ce3/d4d6ec2598e1a26d.jpg",
+          "price": 8999.0
+        },
+        {
+          "goodsId": 9,
+          "title": "长虹（CHANGHONG）集成灶一体式环保灶 侧吸式油烟机燃气灶具蒸烤一体套装 触控式 自动清洗 烟灶联动 X1-K",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/76877/21/5833/179067/5d3eee2eE0526f3c6/aee626af7b34a651.jpg",
+          "price": 6088.0
+        }
+      ],
+      [
+        {
+          "goodsId": 10,
+          "title": "beeste 笔记本充电宝 大容量户外移动电源惠普联想戴尔电脑通用手机快充19V20V 【20000毫安】可上飞机款",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t27034/253/1022034616/292673/3b7d4e8c/5bbf0fa7Nb3514a80.jpg",
+          "price": 389.0
+        },
+        {
+          "goodsId": 11,
+          "title": "小米(MI)移动电源2C 20000毫安 移动电源2/大容量充电宝 双USB输出 双向快充 聚合物 适用于平板/手机等",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t9073/31/1377954955/102791/7b1ab542/59b8cfe8Nccdbe0eb.jpg",
+          "price": 6088.0
+        }
+      ],
+      [
+        {
+          "goodsId": 12,
+          "title": "南极人(Nanjiren) 婴儿方巾水洗纱布口水巾洗澡巾新生儿童宝宝6层加厚用纱布毛巾面巾30X30CM单条装",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t22894/260/2597266040/293755/50fb8a61/5b84ab6dN3f138be7.jpg",
+          "price": 9.9
+        },
+        {
+          "goodsId": 13,
+          "title": "子初（Springbuds） 婴儿隔尿垫 防水透气 一次性宝宝尿垫 赠后4包（80片）",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/43103/17/11029/241596/5d478841E8f06c268/3f509446ebb88545.jpg",
+          "price": 39.9
+        }
+      ],
+      [
+        {
+          "goodsId": 14,
+          "title": "贝亲(Pigeon) 奶嘴 贝亲奶嘴 宽口径奶嘴 自然实感 L号 6个月以上 单只装 BA60",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t6985/117/2429649114/127260/534f651c/598c1b42N19088967.jpg",
+          "price": 26.0
+        },
+        {
+          "goodsId": 15,
+          "title": "gb好孩子 婴儿奶嘴 自然实感宽口径奶嘴L号 快流量6个月以上 大圆孔",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t3307/304/774640555/68523/4027875b/57beb40dN75704af7.jpg",
+          "price": 39.9
+        }
+      ],
+      [
+        {
+          "goodsId": 16,
+          "title": "NUK儿童婴儿湿巾超厚特柔宝宝湿巾20抽*5包装 新生儿绵柔抽纸巾湿纸巾",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t2866/8/1545025987/386713/f105d20c/5742cb88N0d253d86.jpg",
+          "price": 35.7
+        },
+        {
+          "goodsId": 17,
+          "title": "狮王 （Lion） 儿童牙膏 婴儿牙膏 宝宝牙膏 3-6岁 葡萄味 60g 迪士尼系列（日本原装进口）",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/34819/27/13393/143124/5d146c0fEb4468733/57d4edb8d2eb75fe.jpg",
+          "price": 18.9
+        }
+      ],
+      [
+        {
+          "goodsId": 18,
+          "title": "艾戈勒（agelocer）博世系列瑞士进口手表男镂空雕花全自动机械表 80小时长动能 潮男腕表 奢华黑金皮带 80小时动能 5402D2【新品】",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/40328/13/13290/259011/5d47a549E190c8ed2/c9bebb22a9c9edc1.jpg",
+          "price": 2599.0
+        },
+        {
+          "goodsId": 19,
+          "title": "原装I&W手表男表男士机械表全自动时尚腕表超薄进口机芯/多色可选商务休闲百搭工业蓝宝石玻璃IW 本色黑皮表带白面/原装进口机芯",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/39585/5/13323/252708/5d46ca28Ee54a0192/2ddfa4e061d5bcfa.png",
+          "price": 898.0
+        }
+      ],
+      [
+        {
+          "goodsId": 20,
+          "title": "荣耀10青春版 幻彩渐变 2400万AI自拍 全网通版6GB+64GB 幻夜黑 移动联通电信4G全面屏手机 双卡双待",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/31220/3/10526/149602/5caee410E790cc53f/e7433835ca12fdad.jpg",
+          "price": 1199.0
+        },
+        {
+          "goodsId": 21,
+          "title": "荣耀9X 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏 全网通6GB+64GB 魅海蓝",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/45124/2/5820/397999/5d36c0cdEda359655/61f65ac6aae3146b.jpg",
+          "price": 1599.0
+        }
+      ]
+    ]
+  },
+  {
+    "cateId": 1,
+    "classify": [
+      "水果",
+      "生活电器",
+      "厨房小电",
+      "个护健康",
+      "集成灶",
+      "移动电源",
+      "婴童寝居",
+      "奶瓶奶嘴",
+      "洗护用品",
+      "瑞表",
+      "手机"
+    ],
+    "goodsList": [
+      [
+        {
+          "goodsId": 0,
+          "title": "智利 金奇异果 9个装 单果约75-90g 新鲜水果",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t30253/281/1516034118/248074/eef5ca3b/5ce27710N5680bb0e.jpg",
+          "price": 32.8
+        },
+        {
+          "goodsId": 1,
+          "title": "鲜菓篮 水果 猕猴桃 生鲜奇异果 红心猕猴桃 12个装单果70-90g现货包邮",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/43645/12/10420/221989/5d3d2a6cEbc6f8a4a/4ae886dc77b17658.jpg",
+          "price": 29.9
+        }
+      ],
+      [
+        {
+          "goodsId": 2,
+          "title": "小米（MI）小米净水器前置活性炭滤芯",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t4210/357/565260019/35639/bbbb81f9/58b680aeN985f7eef.jpg",
+          "price": 69.0
+        },
+        {
+          "goodsId": 3,
+          "title": "碧然德（BRITA）家用净水壶 滤水壶滤芯 MAXTRA+LE 去水垢专家滤芯 6枚装",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/8600/34/12988/128022/5c3ed726Eda192e3d/5159a3347653a30c.jpg",
+          "price": 294.0
+        }
+      ],
+      [
+        {
+          "goodsId": 4,
+          "title": "美的（Midea）M1-L213B 快捷微波炉 360°转盘加热 旋钮操控 精准控温 五档火力 21升",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t20503/186/2458533163/101960/71fcfe06/5b56ddcaNfa469fcd.jpg",
+          "price": 299.0
+        },
+        {
+          "goodsId": 5,
+          "title": "美的（Midea）电水壶热水壶电热水壶304不锈钢水壶双层防烫全钢无缝开水壶烧水壶MK-HJ1512d",
+          "img_url": "https://m.360buyimg.com/n1/s210x210_jfs/t1/50240/25/1875/217134/5cfca91bEc337f4cc/3f4ada2659ed0d94.jpg",
+          "price": 87.0
+        }
+      ],
+      [
+        {
+          "goodsId": 6,
+          "title": "香山电子秤圆形背光电子称体重秤智能差值对比人体称 EB9005L",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/38888/40/8593/72055/5d004bcaE2d9b1e54/e6fa1670c0aab784.jpg",
+          "price": 59.9
+        },
+        {
+          "goodsId": 7,
+          "title": "米家 （MIJIA ）小米声波电动牙刷成人充电式磁悬浮声波震动马达 可替换刷头 智能电动牙刷",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t24346/83/288374923/42501/2fa147f8/5b2b58e5N3ac387ee.jpg",
+          "price": 87.0
+        }
+      ],
+      [
+        {
+          "goodsId": 8,
+          "title": "欧意（OUYI）集成灶一体灶蒸箱烤箱消毒柜自动清洗家用环保灶侧吸下排式 旗舰款【烟灶蒸】 天然气",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/74741/10/6342/182189/5d451cd2Eb42c8ce3/d4d6ec2598e1a26d.jpg",
+          "price": 8999.0
+        },
+        {
+          "goodsId": 9,
+          "title": "长虹（CHANGHONG）集成灶一体式环保灶 侧吸式油烟机燃气灶具蒸烤一体套装 触控式 自动清洗 烟灶联动 X1-K",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/76877/21/5833/179067/5d3eee2eE0526f3c6/aee626af7b34a651.jpg",
+          "price": 6088.0
+        }
+      ],
+      [
+        {
+          "goodsId": 10,
+          "title": "beeste 笔记本充电宝 大容量户外移动电源惠普联想戴尔电脑通用手机快充19V20V 【20000毫安】可上飞机款",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t27034/253/1022034616/292673/3b7d4e8c/5bbf0fa7Nb3514a80.jpg",
+          "price": 389.0
+        },
+        {
+          "goodsId": 11,
+          "title": "小米(MI)移动电源2C 20000毫安 移动电源2/大容量充电宝 双USB输出 双向快充 聚合物 适用于平板/手机等",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t9073/31/1377954955/102791/7b1ab542/59b8cfe8Nccdbe0eb.jpg",
+          "price": 6088.0
+        }
+      ],
+      [
+        {
+          "goodsId": 12,
+          "title": "南极人(Nanjiren) 婴儿方巾水洗纱布口水巾洗澡巾新生儿童宝宝6层加厚用纱布毛巾面巾30X30CM单条装",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t22894/260/2597266040/293755/50fb8a61/5b84ab6dN3f138be7.jpg",
+          "price": 9.9
+        },
+        {
+          "goodsId": 13,
+          "title": "子初（Springbuds） 婴儿隔尿垫 防水透气 一次性宝宝尿垫 赠后4包（80片）",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/43103/17/11029/241596/5d478841E8f06c268/3f509446ebb88545.jpg",
+          "price": 39.9
+        }
+      ],
+      [
+        {
+          "goodsId": 14,
+          "title": "贝亲(Pigeon) 奶嘴 贝亲奶嘴 宽口径奶嘴 自然实感 L号 6个月以上 单只装 BA60",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t6985/117/2429649114/127260/534f651c/598c1b42N19088967.jpg",
+          "price": 26.0
+        },
+        {
+          "goodsId": 15,
+          "title": "gb好孩子 婴儿奶嘴 自然实感宽口径奶嘴L号 快流量6个月以上 大圆孔",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t3307/304/774640555/68523/4027875b/57beb40dN75704af7.jpg",
+          "price": 39.9
+        }
+      ],
+      [
+        {
+          "goodsId": 16,
+          "title": "NUK儿童婴儿湿巾超厚特柔宝宝湿巾20抽*5包装 新生儿绵柔抽纸巾湿纸巾",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t2866/8/1545025987/386713/f105d20c/5742cb88N0d253d86.jpg",
+          "price": 35.7
+        },
+        {
+          "goodsId": 17,
+          "title": "狮王 （Lion） 儿童牙膏 婴儿牙膏 宝宝牙膏 3-6岁 葡萄味 60g 迪士尼系列（日本原装进口）",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/34819/27/13393/143124/5d146c0fEb4468733/57d4edb8d2eb75fe.jpg",
+          "price": 18.9
+        }
+      ],
+      [
+        {
+          "goodsId": 18,
+          "title": "艾戈勒（agelocer）博世系列瑞士进口手表男镂空雕花全自动机械表 80小时长动能 潮男腕表 奢华黑金皮带 80小时动能 5402D2【新品】",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/40328/13/13290/259011/5d47a549E190c8ed2/c9bebb22a9c9edc1.jpg",
+          "price": 2599.0
+        },
+        {
+          "goodsId": 19,
+          "title": "原装I&W手表男表男士机械表全自动时尚腕表超薄进口机芯/多色可选商务休闲百搭工业蓝宝石玻璃IW 本色黑皮表带白面/原装进口机芯",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/39585/5/13323/252708/5d46ca28Ee54a0192/2ddfa4e061d5bcfa.png",
+          "price": 898.0
+        }
+      ],
+      [
+        {
+          "goodsId": 20,
+          "title": "荣耀10青春版 幻彩渐变 2400万AI自拍 全网通版6GB+64GB 幻夜黑 移动联通电信4G全面屏手机 双卡双待",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/31220/3/10526/149602/5caee410E790cc53f/e7433835ca12fdad.jpg",
+          "price": 1199.0
+        },
+        {
+          "goodsId": 21,
+          "title": "荣耀9X 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏 全网通6GB+64GB 魅海蓝",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/45124/2/5820/397999/5d36c0cdEda359655/61f65ac6aae3146b.jpg",
+          "price": 1599.0
+        }
+      ]
+    ]
+  },
+  {
+    "cateId": 2,
+    "classify": [
+      "清洁纸品",
+      "生活电器",
+      "厨房小电",
+      "个护健康",
+      "集成灶",
+      "移动电源",
+      "婴童寝居",
+      "奶瓶奶嘴",
+      "洗护用品",
+      "瑞表",
+      "手机"
+    ],
+    "goodsList": [
+      [
+        {
+          "goodsId": 0,
+          "title": "洁云 卫生纸 洁伴平板纸460g卫生纸 10包装（新老包装随机发货）",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t4465/204/1495764199/207183/806da15/5912dab5Nd04a6d69.jpg",
+          "price": 42.9
+        },
+        {
+          "goodsId": 1,
+          "title": "舒洁（Kleenex）湿纸巾 呆萌小熊压花卫生湿巾便携装10片",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1144/93/209979100/100454/f215d441/550a9b5bN345ca757.jpg",
+          "price": 3.9
+        }
+      ],
+      [
+        {
+          "goodsId": 2,
+          "title": "小米（MI）小米净水器前置活性炭滤芯",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t4210/357/565260019/35639/bbbb81f9/58b680aeN985f7eef.jpg",
+          "price": 69.0
+        },
+        {
+          "goodsId": 3,
+          "title": "碧然德（BRITA）家用净水壶 滤水壶滤芯 MAXTRA+LE 去水垢专家滤芯 6枚装",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/8600/34/12988/128022/5c3ed726Eda192e3d/5159a3347653a30c.jpg",
+          "price": 294.0
+        }
+      ],
+      [
+        {
+          "goodsId": 4,
+          "title": "美的（Midea）M1-L213B 快捷微波炉 360°转盘加热 旋钮操控 精准控温 五档火力 21升",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t20503/186/2458533163/101960/71fcfe06/5b56ddcaNfa469fcd.jpg",
+          "price": 299.0
+        },
+        {
+          "goodsId": 5,
+          "title": "美的（Midea）电水壶热水壶电热水壶304不锈钢水壶双层防烫全钢无缝开水壶烧水壶MK-HJ1512d",
+          "img_url": "https://m.360buyimg.com/n1/s210x210_jfs/t1/50240/25/1875/217134/5cfca91bEc337f4cc/3f4ada2659ed0d94.jpg",
+          "price": 87.0
+        }
+      ],
+      [
+        {
+          "goodsId": 6,
+          "title": "香山电子秤圆形背光电子称体重秤智能差值对比人体称 EB9005L",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/38888/40/8593/72055/5d004bcaE2d9b1e54/e6fa1670c0aab784.jpg",
+          "price": 59.9
+        },
+        {
+          "goodsId": 7,
+          "title": "米家 （MIJIA ）小米声波电动牙刷成人充电式磁悬浮声波震动马达 可替换刷头 智能电动牙刷",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t24346/83/288374923/42501/2fa147f8/5b2b58e5N3ac387ee.jpg",
+          "price": 87.0
+        }
+      ],
+      [
+        {
+          "goodsId": 8,
+          "title": "欧意（OUYI）集成灶一体灶蒸箱烤箱消毒柜自动清洗家用环保灶侧吸下排式 旗舰款【烟灶蒸】 天然气",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/74741/10/6342/182189/5d451cd2Eb42c8ce3/d4d6ec2598e1a26d.jpg",
+          "price": 8999.0
+        },
+        {
+          "goodsId": 9,
+          "title": "长虹（CHANGHONG）集成灶一体式环保灶 侧吸式油烟机燃气灶具蒸烤一体套装 触控式 自动清洗 烟灶联动 X1-K",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/76877/21/5833/179067/5d3eee2eE0526f3c6/aee626af7b34a651.jpg",
+          "price": 6088.0
+        }
+      ],
+      [
+        {
+          "goodsId": 10,
+          "title": "beeste 笔记本充电宝 大容量户外移动电源惠普联想戴尔电脑通用手机快充19V20V 【20000毫安】可上飞机款",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t27034/253/1022034616/292673/3b7d4e8c/5bbf0fa7Nb3514a80.jpg",
+          "price": 389.0
+        },
+        {
+          "goodsId": 11,
+          "title": "小米(MI)移动电源2C 20000毫安 移动电源2/大容量充电宝 双USB输出 双向快充 聚合物 适用于平板/手机等",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t9073/31/1377954955/102791/7b1ab542/59b8cfe8Nccdbe0eb.jpg",
+          "price": 6088.0
+        }
+      ],
+      [
+        {
+          "goodsId": 12,
+          "title": "南极人(Nanjiren) 婴儿方巾水洗纱布口水巾洗澡巾新生儿童宝宝6层加厚用纱布毛巾面巾30X30CM单条装",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t22894/260/2597266040/293755/50fb8a61/5b84ab6dN3f138be7.jpg",
+          "price": 9.9
+        },
+        {
+          "goodsId": 13,
+          "title": "子初（Springbuds） 婴儿隔尿垫 防水透气 一次性宝宝尿垫 赠后4包（80片）",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/43103/17/11029/241596/5d478841E8f06c268/3f509446ebb88545.jpg",
+          "price": 39.9
+        }
+      ],
+      [
+        {
+          "goodsId": 14,
+          "title": "贝亲(Pigeon) 奶嘴 贝亲奶嘴 宽口径奶嘴 自然实感 L号 6个月以上 单只装 BA60",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t6985/117/2429649114/127260/534f651c/598c1b42N19088967.jpg",
+          "price": 26.0
+        },
+        {
+          "goodsId": 15,
+          "title": "gb好孩子 婴儿奶嘴 自然实感宽口径奶嘴L号 快流量6个月以上 大圆孔",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t3307/304/774640555/68523/4027875b/57beb40dN75704af7.jpg",
+          "price": 39.9
+        }
+      ],
+      [
+        {
+          "goodsId": 16,
+          "title": "NUK儿童婴儿湿巾超厚特柔宝宝湿巾20抽*5包装 新生儿绵柔抽纸巾湿纸巾",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t2866/8/1545025987/386713/f105d20c/5742cb88N0d253d86.jpg",
+          "price": 35.7
+        },
+        {
+          "goodsId": 17,
+          "title": "狮王 （Lion） 儿童牙膏 婴儿牙膏 宝宝牙膏 3-6岁 葡萄味 60g 迪士尼系列（日本原装进口）",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/34819/27/13393/143124/5d146c0fEb4468733/57d4edb8d2eb75fe.jpg",
+          "price": 18.9
+        }
+      ],
+      [
+        {
+          "goodsId": 18,
+          "title": "艾戈勒（agelocer）博世系列瑞士进口手表男镂空雕花全自动机械表 80小时长动能 潮男腕表 奢华黑金皮带 80小时动能 5402D2【新品】",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/40328/13/13290/259011/5d47a549E190c8ed2/c9bebb22a9c9edc1.jpg",
+          "price": 2599.0
+        },
+        {
+          "goodsId": 19,
+          "title": "原装I&W手表男表男士机械表全自动时尚腕表超薄进口机芯/多色可选商务休闲百搭工业蓝宝石玻璃IW 本色黑皮表带白面/原装进口机芯",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/39585/5/13323/252708/5d46ca28Ee54a0192/2ddfa4e061d5bcfa.png",
+          "price": 898.0
+        }
+      ],
+      [
+        {
+          "goodsId": 20,
+          "title": "荣耀10青春版 幻彩渐变 2400万AI自拍 全网通版6GB+64GB 幻夜黑 移动联通电信4G全面屏手机 双卡双待",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/31220/3/10526/149602/5caee410E790cc53f/e7433835ca12fdad.jpg",
+          "price": 1199.0
+        },
+        {
+          "goodsId": 21,
+          "title": "荣耀9X 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏 全网通6GB+64GB 魅海蓝",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/45124/2/5820/397999/5d36c0cdEda359655/61f65ac6aae3146b.jpg",
+          "price": 1599.0
+        }
+      ]
+    ]
+  },
+  {
+    "cateId": 3,
+    "classify": [
+      "手机通讯",
+      "生活电器",
+      "厨房小电",
+      "个护健康",
+      "集成灶",
+      "移动电源",
+      "婴童寝居",
+      "奶瓶奶嘴",
+      "洗护用品",
+      "瑞表",
+      "手机"
+    ],
+    "goodsList": [
+      [
+        {
+          "goodsId": 20,
+          "title": "荣耀10青春版 幻彩渐变 2400万AI自拍 全网通版6GB+64GB 幻夜黑 移动联通电信4G全面屏手机 双卡双待",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/31220/3/10526/149602/5caee410E790cc53f/e7433835ca12fdad.jpg",
+          "price": 1199.0
+        },
+        {
+          "goodsId": 21,
+          "title": "荣耀9X 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏 全网通6GB+64GB 魅海蓝",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/45124/2/5820/397999/5d36c0cdEda359655/61f65ac6aae3146b.jpg",
+          "price": 1599.0
+        }
+      ],
+      [
+        {
+          "goodsId": 2,
+          "title": "小米（MI）小米净水器前置活性炭滤芯",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t4210/357/565260019/35639/bbbb81f9/58b680aeN985f7eef.jpg",
+          "price": 69.0
+        },
+        {
+          "goodsId": 3,
+          "title": "碧然德（BRITA）家用净水壶 滤水壶滤芯 MAXTRA+LE 去水垢专家滤芯 6枚装",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/8600/34/12988/128022/5c3ed726Eda192e3d/5159a3347653a30c.jpg",
+          "price": 294.0
+        }
+      ],
+      [
+        {
+          "goodsId": 4,
+          "title": "美的（Midea）M1-L213B 快捷微波炉 360°转盘加热 旋钮操控 精准控温 五档火力 21升",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t20503/186/2458533163/101960/71fcfe06/5b56ddcaNfa469fcd.jpg",
+          "price": 299.0
+        },
+        {
+          "goodsId": 5,
+          "title": "美的（Midea）电水壶热水壶电热水壶304不锈钢水壶双层防烫全钢无缝开水壶烧水壶MK-HJ1512d",
+          "img_url": "https://m.360buyimg.com/n1/s210x210_jfs/t1/50240/25/1875/217134/5cfca91bEc337f4cc/3f4ada2659ed0d94.jpg",
+          "price": 87.0
+        }
+      ],
+      [
+        {
+          "goodsId": 6,
+          "title": "香山电子秤圆形背光电子称体重秤智能差值对比人体称 EB9005L",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/38888/40/8593/72055/5d004bcaE2d9b1e54/e6fa1670c0aab784.jpg",
+          "price": 59.9
+        },
+        {
+          "goodsId": 7,
+          "title": "米家 （MIJIA ）小米声波电动牙刷成人充电式磁悬浮声波震动马达 可替换刷头 智能电动牙刷",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t24346/83/288374923/42501/2fa147f8/5b2b58e5N3ac387ee.jpg",
+          "price": 87.0
+        }
+      ],
+      [
+        {
+          "goodsId": 8,
+          "title": "欧意（OUYI）集成灶一体灶蒸箱烤箱消毒柜自动清洗家用环保灶侧吸下排式 旗舰款【烟灶蒸】 天然气",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/74741/10/6342/182189/5d451cd2Eb42c8ce3/d4d6ec2598e1a26d.jpg",
+          "price": 8999.0
+        },
+        {
+          "goodsId": 9,
+          "title": "长虹（CHANGHONG）集成灶一体式环保灶 侧吸式油烟机燃气灶具蒸烤一体套装 触控式 自动清洗 烟灶联动 X1-K",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/76877/21/5833/179067/5d3eee2eE0526f3c6/aee626af7b34a651.jpg",
+          "price": 6088.0
+        }
+      ],
+      [
+        {
+          "goodsId": 10,
+          "title": "beeste 笔记本充电宝 大容量户外移动电源惠普联想戴尔电脑通用手机快充19V20V 【20000毫安】可上飞机款",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t27034/253/1022034616/292673/3b7d4e8c/5bbf0fa7Nb3514a80.jpg",
+          "price": 389.0
+        },
+        {
+          "goodsId": 11,
+          "title": "小米(MI)移动电源2C 20000毫安 移动电源2/大容量充电宝 双USB输出 双向快充 聚合物 适用于平板/手机等",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t9073/31/1377954955/102791/7b1ab542/59b8cfe8Nccdbe0eb.jpg",
+          "price": 6088.0
+        }
+      ],
+      [
+        {
+          "goodsId": 12,
+          "title": "南极人(Nanjiren) 婴儿方巾水洗纱布口水巾洗澡巾新生儿童宝宝6层加厚用纱布毛巾面巾30X30CM单条装",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t22894/260/2597266040/293755/50fb8a61/5b84ab6dN3f138be7.jpg",
+          "price": 9.9
+        },
+        {
+          "goodsId": 13,
+          "title": "子初（Springbuds） 婴儿隔尿垫 防水透气 一次性宝宝尿垫 赠后4包（80片）",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/43103/17/11029/241596/5d478841E8f06c268/3f509446ebb88545.jpg",
+          "price": 39.9
+        }
+      ],
+      [
+        {
+          "goodsId": 14,
+          "title": "贝亲(Pigeon) 奶嘴 贝亲奶嘴 宽口径奶嘴 自然实感 L号 6个月以上 单只装 BA60",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t6985/117/2429649114/127260/534f651c/598c1b42N19088967.jpg",
+          "price": 26.0
+        },
+        {
+          "goodsId": 15,
+          "title": "gb好孩子 婴儿奶嘴 自然实感宽口径奶嘴L号 快流量6个月以上 大圆孔",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t3307/304/774640555/68523/4027875b/57beb40dN75704af7.jpg",
+          "price": 39.9
+        }
+      ],
+      [
+        {
+          "goodsId": 16,
+          "title": "NUK儿童婴儿湿巾超厚特柔宝宝湿巾20抽*5包装 新生儿绵柔抽纸巾湿纸巾",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t2866/8/1545025987/386713/f105d20c/5742cb88N0d253d86.jpg",
+          "price": 35.7
+        },
+        {
+          "goodsId": 17,
+          "title": "狮王 （Lion） 儿童牙膏 婴儿牙膏 宝宝牙膏 3-6岁 葡萄味 60g 迪士尼系列（日本原装进口）",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/34819/27/13393/143124/5d146c0fEb4468733/57d4edb8d2eb75fe.jpg",
+          "price": 18.9
+        }
+      ],
+      [
+        {
+          "goodsId": 18,
+          "title": "艾戈勒（agelocer）博世系列瑞士进口手表男镂空雕花全自动机械表 80小时长动能 潮男腕表 奢华黑金皮带 80小时动能 5402D2【新品】",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/40328/13/13290/259011/5d47a549E190c8ed2/c9bebb22a9c9edc1.jpg",
+          "price": 2599.0
+        },
+        {
+          "goodsId": 19,
+          "title": "原装I&W手表男表男士机械表全自动时尚腕表超薄进口机芯/多色可选商务休闲百搭工业蓝宝石玻璃IW 本色黑皮表带白面/原装进口机芯",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/39585/5/13323/252708/5d46ca28Ee54a0192/2ddfa4e061d5bcfa.png",
+          "price": 898.0
+        }
+      ],
+      [
+        {
+          "goodsId": 20,
+          "title": "荣耀10青春版 幻彩渐变 2400万AI自拍 全网通版6GB+64GB 幻夜黑 移动联通电信4G全面屏手机 双卡双待",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/31220/3/10526/149602/5caee410E790cc53f/e7433835ca12fdad.jpg",
+          "price": 1199.0
+        },
+        {
+          "goodsId": 21,
+          "title": "荣耀9X 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏 全网通6GB+64GB 魅海蓝",
+          "img_url": "https://m.360buyimg.com/n1/s200x200_jfs/t1/45124/2/5820/397999/5d36c0cdEda359655/61f65ac6aae3146b.jpg",
+          "price": 1599.0
+        }
+      ]
+    ]
+  }
+]

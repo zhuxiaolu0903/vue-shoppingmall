@@ -1,0 +1,255 @@
+[
+  {
+    "banner": [
+      {
+        "goodsId": 0,
+        "img_url": "https://img10.360buyimg.com/img/jfs/t1/39130/26/12207/58092/5d36c685Ea62c4713/5db90f3e0df26cae.jpg"
+      },
+      {
+        "goodsId": 1,
+        "img_url": "https://img20.360buyimg.com/img/jfs/t1/48879/14/5859/116405/5d3906f7Eb37b5e91/a1a7492c2d226be7.jpg"
+      }
+    ]
+  },
+  {
+    "classification":[
+      {
+        "classId": 0,
+        "img_url": "https://img12.360buyimg.com/img/jfs/t1/81470/17/6078/6064/5d440a62Edd13ff87/59f16dfb3e7d65ae.jpg",
+        "desc": "天天抽奖"
+      },
+      {
+        "classId": 1,
+        "img_url": "https://img10.360buyimg.com/img/jfs/t1/43824/20/10768/6520/5d440b2cEb6eec812/1a7f3d48bf8f59ba.jpg",
+        "desc": "答题赢金"
+      },
+      {
+        "classId": 2,
+        "img_url": "https://img10.360buyimg.com/img/jfs/t1/63394/13/6029/7067/5d440c90E04d68585/4f6c82127fee8779.jpg",
+        "desc": "拼手速"
+      },
+      {
+        "classId": 3,
+        "img_url": "https://img11.360buyimg.com/img/jfs/t1/55780/16/6558/6202/5d440e2cEc10065d4/afbc4004ff460c29.jpg",
+        "desc": "领券中心"
+      },
+      {
+        "classId": 4,
+        "img_url": "https://img14.360buyimg.com/img/jfs/t1/63400/6/6121/6313/5d440e93Ef8963893/4a6f64c1fda5d788.jpg",
+        "desc": "抓娃娃"
+      }
+    ]
+  },
+  {
+    "floor": [
+      {
+        "cateId": 0,
+        "category_name": "粮油调味",
+        "list-item": [
+          {
+            "img_url": "https://img12.360buyimg.com/img/jfs/t26299/192/1966203301/61888/1728a559/5bf3d773N9a00f2a0.jpg"
+          },
+          {
+            "img_url": "https://img20.360buyimg.com/img/jfs/t29938/100/429764369/72061/f5a87a58/5bf3d857Nad4aa7ec.jpg"
+          },
+          {
+            "img_url": "https://img12.360buyimg.com/img/jfs/t24643/192/1909070997/43641/7c8a885a/5bbf07a9N24a271f0.jpg",
+            "text": "牛奶"
+          },
+          {
+            "img_url": "https://img12.360buyimg.com/img/jfs/t25585/175/1926852675/39693/80f938/5bbf0815Nad16fee5.jpg",
+            "text": "坚果炒货"
+          },
+          {
+            "img_url": "https://img11.360buyimg.com/img/jfs/t27682/253/1018886259/30052/36ad1d28/5bbf0bf9Nfc57b1a9.jpg",
+            "text": "巧克力糖果"
+          },
+          {
+            "img_url": "https://img20.360buyimg.com/img/jfs/t1/5530/18/5743/30768/5ba09690E073a3a65/a29bd1140baa7959.jpg",
+            "text": "饼干糕点"
+          },
+          {
+            "img_url": "https://img20.360buyimg.com/img/jfs/t25312/266/1921892209/41065/d2205293/5bbf0a03Ndd118e0c.jpg",
+            "text": "肉干"
+          },
+          {
+            "img_url": "https://img13.360buyimg.com/img/jfs/t26065/109/1909866071/38901/b1bf0154/5bbf0a47N398b12e3.jpg",
+            "text": "冲调"
+          },
+          {
+            "img_url": "https://img11.360buyimg.com/img/jfs/t25603/282/1889808672/43594/77ccd61f/5bbf0abeN701e0d90.jpg",
+            "text": "饮料"
+          },
+          {
+            "img_url": "https://img11.360buyimg.com/img/jfs/t26029/142/1926620611/42083/9b56fbb2/5bbf0b60N0f7274ac.jpg",
+            "text": "酒"
+          }
+        ]
+      },
+      {
+        "cateId": 1,
+        "category_name": "水果",
+        "list-item": [
+          {
+            "img_url": "https://img20.360buyimg.com/img/jfs/t27205/192/1997565557/67073/17677c08/5bf3d94bN936d950d.jpg"
+          },
+          {
+            "img_url": "https://img30.360buyimg.com/img/jfs/t28402/16/129713362/57601/9ef54056/5bf3d9c7N79fd781a.jpg"
+          },
+          {
+            "img_url": "https://img30.360buyimg.com/img/jfs/t1/7328/26/13341/23350/5c5141b6Efa6707df/164f5cf335bc1205.jpg",
+            "text": "冷藏"
+          },
+          {
+            "img_url": "https://img13.360buyimg.com/img/jfs/t24778/209/1946163777/29443/fa1f7cb1/5bc00cbeN1dd0e8ca.jpg",
+            "text": "猪羊牛肉"
+          },
+          {
+            "img_url": "https://img10.360buyimg.com/img/jfs/t27589/120/1046819232/25363/4819d687/5bc00d14Nd883c5e6.jpg",
+            "text": "海鲜水产"
+          },
+          {
+            "img_url": "https://img13.360buyimg.com/img/jfs/t27895/177/1082737528/18665/429dfe87/5bc00d5fN817a1dbd.jpg",
+            "text": "禽肉蛋品"
+          },
+          {
+            "img_url": "https://img20.360buyimg.com/img/jfs/t26779/97/1061875533/26912/278e1993/5bc00cdeN1225b10e.jpg",
+            "text": "尿裤湿巾"
+          },
+          {
+            "img_url": "https://img14.360buyimg.com/img/jfs/t27445/153/1044244717/35462/aaa6fb5c/5bc00d50Nddd0ff9c.jpg",
+            "text": "营养健康"
+          },
+          {
+            "img_url": "https://img14.360buyimg.com/img/jfs/t27829/103/1063576751/16581/c3869300/5bc00dcaN6ed6ad66.jpg",
+            "text": "喂养用品"
+          },
+          {
+            "img_url": "https://img11.360buyimg.com/img/jfs/t25669/21/1969376980/18322/15a1a935/5bc00e37Nb6a08bba.jpg",
+            "text": "婴儿洗护"
+          }
+        ]
+      },
+      {
+        "cateId": 2,
+        "category_name": "纸品清洁",
+        "list-item": [
+          {
+            "img_url": "https://img14.360buyimg.com/img/jfs/t30796/222/461005367/49868/5050cdf3/5bf3da82Ncec5f071.jpg"
+          },
+          {
+            "img_url": "https://img14.360buyimg.com/img/jfs/t27535/348/2000356271/42019/3d6da16e/5bf3dcc9N2ac930bd.jpg"
+          },
+          {
+            "img_url": "https://img12.360buyimg.com/img/jfs/t27589/196/1018391498/32560/d2797388/5bbf07baNd98acd56.jpg",
+            "text": "衣物清洁"
+          },
+          {
+            "img_url": "https://img12.360buyimg.com/img/jfs/t25891/245/1919957930/30143/b921bf0f/5bbfffdeN382dff26.jpg",
+            "text": "厨卫清洁"
+          },
+          {
+            "img_url": "https://img30.360buyimg.com/img/jfs/t25756/61/1846488205/17483/aa5f4328/5bbdb370N0070bad6.jpg",
+            "text": "清洁工具"
+          },
+          {
+            "img_url": "https://img30.360buyimg.com/img/jfs/t25243/343/1986037662/28310/22e31645/5bc00075Nc394da4a.jpg",
+            "text": "一次性用品"
+          },
+          {
+            "img_url": "https://img14.360buyimg.com/img/jfs/t26341/218/999846031/17464/69124698/5bbf090aNa7017805.jpg",
+            "text": "身体护理"
+          },
+          {
+            "img_url": "https://img14.360buyimg.com/img/jfs/t26341/218/999846031/17464/69124698/5bbf090aNa7017805.jpg",
+            "text": "女性护理"
+          },
+          {
+            "img_url": "https://img14.360buyimg.com/img/jfs/t26809/308/1002437801/22220/3e49db78/5bbf098aNaa3b0907.jpg",
+            "text": "面部护理"
+          },
+          {
+            "img_url": "https://img12.360buyimg.com/img/jfs/t27190/18/1020938806/34472/fb6c9871/5bbf09d5N0325b3ea.jpg",
+            "text": "口腔护理"
+          }
+        ]
+      },
+      {
+        "cateId": 3,
+        "category_name": "手机通讯",
+        "list-item": [
+          {
+            "img_url": "https://img11.360buyimg.com/img/jfs/t30076/109/446356799/52801/73de2e38/5bf3dda3Ne7370881.jpg"
+          },
+          {
+            "img_url": "https://img11.360buyimg.com/img/jfs/t30076/109/446356799/52801/73de2e38/5bf3dda3Ne7370881.jpg"
+          },
+          {
+            "img_url": "https://img12.360buyimg.com/img/jfs/t27367/163/987673603/17728/91ff5534/5bbf0a30N7c219cb6.jpg",
+            "text": "空气净化"
+          },
+          {
+            "img_url": "https://img12.360buyimg.com/img/jfs/t27367/163/987673603/17728/91ff5534/5bbf0a30N7c219cb6.jpg",
+            "text": "吸尘除螨"
+          },
+          {
+            "img_url": "https://img12.360buyimg.com/img/jfs/t27367/163/987673603/17728/91ff5534/5bbf0a30N7c219cb6.jpg",
+            "text": "童书"
+          },
+          {
+            "img_url": "https://img14.360buyimg.com/img/jfs/t25771/58/1936358713/36545/5d7995cb/5bbf0b5dNe387cfb6.jpg",
+            "text": "狗粮"
+          },
+          {
+            "img_url": "https://img30.360buyimg.com/img/jfs/t25852/206/1926025808/23937/9591b79e/5bbf0ba1N5d1f816c.jpg",
+            "text": "猫粮"
+          },
+          {
+            "img_url": "https://img30.360buyimg.com/img/jfs/t25852/206/1926025808/23937/9591b79e/5bbf0ba1N5d1f816c.jpg",
+            "text": "宠物零食"
+          },
+          {
+            "img_url": "https://img30.360buyimg.com/img/jfs/t25852/206/1926025808/23937/9591b79e/5bbf0ba1N5d1f816c.jpg",
+            "text": "猫狗日用"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "understand": [
+      {
+        "img_url": "https://img13.360buyimg.com/jdcms/jfs/t2308/340/1939675855/103729/6ac2544d/56834275Necadfe6f.jpg",
+        "name": "中国近代史",
+        "price": 26.3
+      },
+      {
+        "img_url": "https://img13.360buyimg.com/jdcms/jfs/t1/41218/10/9294/241954/5d2db379E0215da32/a9388291b55e5a7d.jpg",
+        "name": "鳄鱼恤西服男2019春秋季新款中年韩版商务休闲小西装修身单西男外套 灰咖色58603 175/L",
+        "price": 268
+      },
+      {
+        "img_url": "https://img13.360buyimg.com/jdcms/jfs/t1/23537/34/2/244499/5c064432E649261a7/499ca269c3e1464e.jpg",
+        "name": "武极 AMD 锐龙 R7 2700X/RTX2070/256G/水冷游戏台式吃鸡电脑主机DIY组装机",
+        "price": 6899
+      },
+      {
+        "img_url": "https://img13.360buyimg.com/jdcms/jfs/t1/69061/17/6048/219412/5d423734Ee64b4408/e3101222113b79ca.jpg",
+        "name": "鳄鱼恤男装休闲西装男士外套2019新款羊毛呢单件西装男商务休闲磨毛中年男西服 咖色 L（175）",
+        "price": 588
+      },
+      {
+        "img_url": "https://img13.360buyimg.com/jdcms/jfs/t1/54764/37/1142/139813/5cedf40bE7f020a92/0194c3867c4b7a51.jpg",
+        "name": "HKC GX329Q 32英寸1500R曲面2K分辨率144Hz刷新率电竞游戏显示器 32英寸",
+        "price": 1999
+      },
+      {
+        "img_url": "https://img13.360buyimg.com/jdcms/jfs/t7876/169/2305432047/243081/beccc130/59acaea4N9a628512.jpg",
+        "name": "迪奥（Dior）迪奥小姐花漾淡香氛(EDT) 50ml（又名:迪奥小姐花漾淡香水）",
+        "price": 830
+      }
+    ]
+  }
+]
+
+

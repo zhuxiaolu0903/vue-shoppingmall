@@ -1,0 +1,30 @@
+[
+  {
+    "goodsId": 0,
+    "title": "日清 方便面 合味道 虾仁味 方便面82g*12杯整箱装",
+    "img_url": "https://img10.360buyimg.com/n1/jfs/t571/251/912663531/119988/a403bf23/549928a9Necb2e7a0.jpg",
+    "price": 59.8,
+    "selected": true
+  },
+  {
+    "goodsId": 1,
+    "title": "展艺 烘焙原料 纯正椰蓉 椰丝糯米糍奶油小方蛋糕饼干装饰 全脂椰丝 100克* 3包",
+    "img_url": "https://img10.360buyimg.com/n1/jfs/t1/35007/40/14050/163706/5d38027bE7a29a826/ff92d71679531db2.jpg",
+    "price": 5.8,
+    "selected": true
+  },
+  {
+    "goodsId": 2,
+    "title": "小米（MI）小米净水器前置活性炭滤芯",
+    "img_url": "https://img10.360buyimg.com/n1/jfs/t4210/357/565260019/35639/bbbb81f9/58b680aeN985f7eef.jpg",
+    "price": 69.0,
+    "selected": true
+  },
+  {
+    "goodsId": 3,
+    "title": "碧然德（BRITA）家用净水壶 滤水壶滤芯 MAXTRA+LE 去水垢专家滤芯 6枚装",
+    "img_url": "https://img12.360buyimg.com/n1/jfs/t1/8600/34/12988/128022/5c3ed726Eda192e3d/5159a3347653a30c.jpg",
+    "price": 294,
+    "selected": true
+  }
+]
